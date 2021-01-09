@@ -2,5 +2,5 @@
  layout : slide 
 title : " İkinci slaytımıza hoş geldiniz! "
 ---
-Metniniz 
+GAZI UNIVERSTY 
 Geri gitmek için sol oku kullanın!
